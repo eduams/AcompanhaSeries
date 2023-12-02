@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AcompanhaSeries</string>
+
+    <string-array name="dia_semana">
+        <item>Domingo</item>
+        <item>Segunda</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
+    </string-array>
+</resources>

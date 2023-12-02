@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415466014700",
+    "project_id": "acompanhaseries",
+    "storage_bucket": "acompanhaseries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415466014700:android:7fa4cd6a422db5f6e1e2c9",
+        "android_client_info": {
+          "package_name": "com.example.acompanhaseries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDebY7XFz-Lsw1WiDDVDGIF7-tINhAOlD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
